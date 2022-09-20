@@ -48,7 +48,7 @@ class App extends Component {
       default:
         this.setState({
           pressed2: true,
-          color2:"#f0ff"
+          color2:"#f0f869"
         })
     }
     break;
@@ -63,7 +63,7 @@ class App extends Component {
         default:
           this.setState({
             pressed3: true,
-            color3:"#f0ff"
+            color3:"#f08445"
           })
       }
    break;
@@ -78,7 +78,7 @@ class App extends Component {
       default:
         this.setState({
           pressed4: true,
-          color4:"#f0ff"
+          color4:"#f85449"
         })
     }
    break;
